@@ -1,1 +1,5 @@
-/*  your css code here. If applicable */
+{
+box-sizing: boder-box;
+	background-color: navyblue;
+	justify-content: space-between;
+}
